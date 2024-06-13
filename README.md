@@ -1,7 +1,7 @@
-#SN Corp Dashboard
+# SN Corp Dashboard
 
 
-Overview
+### Overview
 
 
 Welcome to the SN Corp Dashboard repository. This project features a Power BI dashboard designed to provide comprehensive insights into key business metrics for SN Corp. The dashboard leverages data from various sources to offer visual analytics and reporting capabilities, facilitating data-driven decision-making.
